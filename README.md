@@ -1,8 +1,4 @@
-# ECG-Arrhythmia-Classification-Dataset
-The dataset contains extracted features from two-lead ECG signal (lead II, V) from the MIT-BIH Arrhythmia dataset (Physionet).
-
-### **Context**
-
+# **ECG-Arrhythmia-Classification-Dataset**
 The dataset contains features extracted two-lead ECG signal (lead II, V) from the MIT-BIH Arrhythmia dataset (Physionet). In addition, we have programmatically extracted relevant features from ECG signals to classify regular/irregular heartbeats.
 [Link from PhysioNet](https://physionet.org/content/mitdb/1.0.0/). The dataset can be used to classify heartbeats for arrhythmia detection.  
 
